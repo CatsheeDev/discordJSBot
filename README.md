@@ -4,12 +4,12 @@ Base code to get you started with Discord.JS v14, code from https://discordjs.gu
 Installing Node.js
 To use discord.js, you'll need to install Node.js. discord.js v14 requires Node v16.9.0 or higher.
 
-#Run this in your terminal to property set up a package file
+# Run this in your terminal to property set up a package file
 ```js
 npm init
 ```
 
-#If you're lazy like me, use this. it does it automatically.
+# If you're lazy like me, use this. it does it automatically.
 ```js
 npm init -y
 ```
@@ -29,5 +29,5 @@ To run the bot. To deploy commands, simply run
 node deploy-commands.js
 ```
 
-#Congratulations! You've set up a basic Discord.JS bot. Here's a gif of a spinning duck.
+# Congratulations! You've set up a basic Discord.JS bot. Here's a gif of a spinning duck.
 ![](https://i.imgur.com/lWdA3OU.gif)
