@@ -23,11 +23,11 @@ npm install discord.js
 Great! now you have to fill out all the information in `config.json` and run
 ```js
 node index.js
-```.
+```
 To run the bot. To deploy commands, simply run
 ```js
 node deploy-commands.js
-```.
+```
 
 #Congratulations! You've set up a basic Discord.JS bot. Here's a gif of a spinning duck.
 ![](https://i.imgur.com/lWdA3OU.gif)
