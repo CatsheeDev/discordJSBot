@@ -1,6 +1,5 @@
 # discordJSBot
-Base code to get you started with Discord.JS v14, code from https://discordjs.guide/. Worth a read!
-
+Base code to get you started with Discord.JS v14, code from https://discordjs.guide/.
 Installing Node.js
 To use discord.js, you'll need to install Node.js. discord.js v14 requires Node v16.9.0 or higher.
 
